@@ -1,0 +1,6 @@
+NiAD_Large_Videos/
+weights/
+mobilenet73/best_mobilenet.pth
+resnet75/best_resnet_transfer75.pth
+__pycache__/
+.vscode/

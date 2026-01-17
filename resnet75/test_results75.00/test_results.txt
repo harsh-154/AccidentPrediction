@@ -1,0 +1,34 @@
+==================================================
+TEST RESULTS
+==================================================
+
+Overall Accuracy: 75.00%
+AUC-ROC Score: 0.6994
+
+Weighted Precision: 0.7439
+Weighted Recall: 0.7500
+Weighted F1-Score: 0.7236
+
+--------------------------------------------------
+Per-Class Metrics:
+--------------------------------------------------
+
+Normal:
+  Precision: 0.7566
+  Recall: 0.9293
+  F1-Score: 0.8341
+  Support: 184
+
+Accident:
+  Precision: 0.7174
+  Recall: 0.3750
+  F1-Score: 0.4925
+  Support: 88
+
+--------------------------------------------------
+Confusion Matrix:
+--------------------------------------------------
+                Predicted
+              Normal  Accident
+Actual Normal     171       13
+      Accident     55       33

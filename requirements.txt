@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+numpy
+opencv-python
+opencv-python-headless
+tqdm
+pandas
+matplotlib
+scikit-learn
+tensorflow==2.13.1
+keras==2.13.1
+tensorflow-hub==0.16.1
