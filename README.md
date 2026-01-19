@@ -179,7 +179,7 @@ python augment_accident_segments.py
 ### Model Performance
 
 <!-- Update with your actual results -->
-- **C3D**: [Add accuracy and metrics]
+- **C3D**: 70% accuracy
 - **MobileNet**: 73% accuracy
 - **ResNet**: 75% accuracy
 
@@ -205,32 +205,7 @@ See `requirements.txt` for full list. Key dependencies:
 - Matplotlib
 - Pandas
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-[Add your license information here]
-
 ## 👤 Author
 
 **Harsh**
 - GitHub: [@harsh-154](https://github.com/harsh-154)
-
-## 🙏 Acknowledgments
-
-- Pretrained models from various sources
-- Dataset providers
-- Open source community
-
----
-
-**Note**: Make sure to update the dataset links and add your specific results/metrics in the appropriate sections above.
-
