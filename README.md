@@ -73,10 +73,7 @@ cd AccidentPrediction
 pip install -r requirements.txt
 ```
 
-3. Download pretrained weights (if needed):
-   - C3D pretrained weights: [Add link]
-   - MobileNet pretrained weights: [Add link]
-   - ResNet pretrained weights: [Add link]
+3. Download pretrained weights
 
 ## 📁 Project Structure
 
